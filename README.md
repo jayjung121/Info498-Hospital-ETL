@@ -1,4 +1,7 @@
 # Info498-Hospital-ETL
+
+For better description, check out Technical Documentation_ByungsuJung document in \ByungsuJung_Info498_Final\Documents
+
 Info498 Final project
 
 ETL Process(Final)
